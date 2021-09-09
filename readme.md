@@ -1,14 +1,8 @@
-# Template mySociety Jupyter notebook
 
-Template for for Jupyter notebooks with helper functions for rendering charts. See `notebooks\exmaple.ipynb`.
+# binder_test2
 
-## How to use
+[![badge](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ajparsons/binder_test2/MAIN)
 
-In a new notebook, add the boilerplate:
+null
 
-```
-import setup
-from notebook_helper import *
-```
-
-This will load common libaries like Pandas, Altair, and numpy, as well as the mySociety customisation of these. 
+This repository is avaliable online at https://github.com/ajparsons/binder_test2
